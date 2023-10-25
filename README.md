@@ -1,2 +1,1 @@
-# BookYourBus
-Bus Ticket booking
+# BMS
