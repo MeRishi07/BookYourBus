@@ -9,6 +9,7 @@
 - [Running on Local](#running-on-local)
 - [Advantages](#advantages)
 - [Future Scope](#future-scope)
+- [Screenshots](#screenshots)
 - [Conclusion](#conclusion)
 
 ---
@@ -130,10 +131,6 @@ To set up the project on your local machine, follow these steps:
   ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture19.jpg)
   ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture20.jpg)
 
-  
-- Test Cases
-  ![JUnit Test](https://github.com/MeRishi07/BookYourBus/blob/44bc81bdfb69bb1acf5978e30e7f373a3f4b430e/Screenshots/Picture21.jpg)
-  ![JUnit](https://github.com/MeRishi07/BookYourBus/blob/44bc81bdfb69bb1acf5978e30e7f373a3f4b430e/Screenshots/Picture22.jpg)
 
 ---
 
