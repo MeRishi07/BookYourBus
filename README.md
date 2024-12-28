@@ -47,7 +47,7 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MeRishi07/BookYourBus.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -105,5 +105,18 @@ To set up the project on your local machine, follow these steps:
 
 ---
 
+## Screenshots
+- DB Schema
+  ![DB Schema](https://github.com/MeRishi07/BookYourBus/blob/44bc81bdfb69bb1acf5978e30e7f373a3f4b430e/Screenshots/Picture2.jpg)
+- Admin Side
+- User Side
+- Test Cases
+  ![JUnit Test](https://github.com/MeRishi07/BookYourBus/blob/44bc81bdfb69bb1acf5978e30e7f373a3f4b430e/Screenshots/Picture21.jpg)
+  ![JUnit](https://github.com/MeRishi07/BookYourBus/blob/44bc81bdfb69bb1acf5978e30e7f373a3f4b430e/Screenshots/Picture22.jpg)
+
+---
+
 ## Conclusion
 The **Online Bus Booking System** revolutionizes bus travel planning, offering convenience and efficiency for passengers and operators alike. With scalability and sustainability at its core, this system is designed for future growth and adaptability.
+
+
