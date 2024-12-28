@@ -2,15 +2,11 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Project Scope](#project-scope)
-- [Tools and Technologies](#tools-and-technologies)
-- [Existing System](#existing-system)
-- [Proposed System](#proposed-system)
-- [System Modules](#system-modules)
-  - [Admin Module](#admin-module)
-  - [User Module](#user-module)
-- [Database Schema](#database-schema)
-- [Testing](#testing)
+- [Features](#features)
+- [Technology Used](#technology-used)
+- [Getting Started](#getting-started)
+- [Configuring the Application](#configuring-the-application)
+- [Running on Local](#running-on-local)
 - [Advantages](#advantages)
 - [Future Scope](#future-scope)
 - [Conclusion](#conclusion)
@@ -22,16 +18,16 @@ The **Online Bus Booking System** is designed to streamline the bus ticketing pr
 
 ---
 
-## Project Scope
-- **User Interface**: Simple and intuitive for passengers.
-- **Administrator Dashboard**: Centralized control for managing schedules, buses, and bookings.
-- **Database Management**: Ensures data integrity and accuracy.
-- **Security Measures**: Protects sensitive information.
-- **Responsive Design**: Accessible on multiple devices.
+## Features
+- **User-Friendly Interface**: Simplifies the booking process for passengers.
+- **Real-Time Updates**: Ensures access to the latest schedules and fares.
+- **Admin Dashboard**: Centralized management of buses, routes, and bookings.
+- **Secure Data Handling**: Protects user information and transactions.
+- **Multi-Device Support**: Fully responsive design for desktops, tablets, and smartphones.
 
 ---
 
-## Tools and Technologies
+## Technology Used
 ### Front-End Technologies
 - Angular
 - HTML5, CSS3, JavaScript
@@ -46,51 +42,50 @@ The **Online Bus Booking System** is designed to streamline the bus ticketing pr
 
 ---
 
-## Existing System
-The offline system faces challenges such as:
-- Manual and paper-based processes
-- Data inefficiencies and errors
-- High operational costs
-- Limited accessibility to real-time information
-- Security concerns
+## Getting Started
+To set up the project on your local machine, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd online-bus-booking-system
+   ```
+3. Install required dependencies for the front-end and back-end.
 
 ---
 
-## Proposed System
-The proposed system offers:
-- **Convenient Booking**: Hassle-free ticket booking from any device.
-- **Real-time Updates**: Access to up-to-date schedules and fares.
-- **Efficient Administration**: Simplified management of buses and schedules.
-- **Cost Savings**: Eliminates middlemen, reducing operational costs.
-- **Data Accuracy**: Minimizes errors through digital data management.
+## Configuring the Application
+1. **Database Setup**:
+   - Install MySQL and create a database for the application.
+   - Update the database configuration in the application properties file:
+     ```properties
+     spring.datasource.url=jdbc:mysql://localhost:3306/<your-database-name>
+     spring.datasource.username=<your-username>
+     spring.datasource.password=<your-password>
+     ```
+
+2. **API Keys and Environment Variables**:
+   - Configure any API keys or environment variables required for the application.
 
 ---
 
-## System Modules
-
-### Admin Module
-- Manage buses, locations, and bookings.
-- Update payment statuses.
-- Add, edit, or delete locations and schedules.
-
-### User Module
-- Create and manage user profiles.
-- Search and book buses.
-- View and update bookings.
-
----
-
-## Database Schema
-Comprehensive database schema designed for:
-- Passenger data management.
-- Bus schedules and route information.
-- Booking and payment tracking.
-
----
-
-## Testing
-- **JUnit Testing**: Ensures code reliability.
-- **Postman Testing**: Verifies API functionality.
+## Running on Local
+1. **Start the Back-End Server**:
+   ```bash
+   ./mvnw spring-boot:run
+   ```
+2. **Start the Front-End Application**:
+   Navigate to the front-end directory and run:
+   ```bash
+   ng serve
+   ```
+3. Access the application in your browser at:
+   ```
+   http://localhost:4200
+   ```
 
 ---
 
