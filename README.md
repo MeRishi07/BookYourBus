@@ -108,8 +108,29 @@ To set up the project on your local machine, follow these steps:
 ## Screenshots
 - DB Schema
   ![DB Schema](https://github.com/MeRishi07/BookYourBus/blob/44bc81bdfb69bb1acf5978e30e7f373a3f4b430e/Screenshots/Picture2.jpg)
-- Admin Side
-- User Side
+- UI
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture1.png)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Q.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture3.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture4.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture5.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture6.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture7.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture8.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture9.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture10.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture11.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture12.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture13.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture14.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture15.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture16.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture17.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture18.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture19.jpg)
+  ![](https://github.com/MeRishi07/BookYourBus/blob/803331cb2733262ed4f141b23be136af2f7d8c3f/Screenshots/Picture20.jpg)
+
+  
 - Test Cases
   ![JUnit Test](https://github.com/MeRishi07/BookYourBus/blob/44bc81bdfb69bb1acf5978e30e7f373a3f4b430e/Screenshots/Picture21.jpg)
   ![JUnit](https://github.com/MeRishi07/BookYourBus/blob/44bc81bdfb69bb1acf5978e30e7f373a3f4b430e/Screenshots/Picture22.jpg)
